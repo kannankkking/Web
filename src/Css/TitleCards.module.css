@@ -1,0 +1,36 @@
+.title-cards{
+    margin-top: 50px;
+    margin-bottom: 30px;
+  
+}
+.title-cards h2{
+    margin-bottom: 50px;
+}
+.list{
+    display: flex;
+    gap: 16px;
+    overflow-x:hidden;
+   padding: 10px;
+} 
+
+.list img{
+    width: 260px;
+    height: 150px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.list .card{
+    position: relative;
+}
+.list .card p{
+    position: absolute;
+    bottom: 10px;
+    
+}
+.list p{
+    background:transparent;
+    font-weight: 600;
+}
+.tittlecards{
+    padding-left: 0.6%;
+}
