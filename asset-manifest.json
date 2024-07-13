@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Movie/static/css/main.cdd4fccc.css",
+    "main.js": "/Movie/static/js/main.0010e2e2.js",
+    "static/media/Wallpaper.jpeg": "/Movie/static/media/Wallpaper.9771ab3189a594def03a.jpeg",
+    "static/media/image14.jpeg": "/Movie/static/media/image14.a2f71859b76da8d9c2a1.jpeg",
+    "static/media/image15.jpeg": "/Movie/static/media/image15.780af8a715504c7ffc36.jpeg",
+    "static/media/image2.jpeg": "/Movie/static/media/image2.10365e1db7bb93660f81.jpeg",
+    "static/media/image8.jpeg": "/Movie/static/media/image8.107b254a1ae00ab645da.jpeg",
+    "static/media/image1.jpeg": "/Movie/static/media/image1.487a8c29b074f85fad98.jpeg",
+    "static/media/image4.jpeg": "/Movie/static/media/image4.9dac097e4de0282f7803.jpeg",
+    "static/media/image10.jpeg": "/Movie/static/media/image10.c3638edff72f7fa5efeb.jpeg",
+    "static/media/image12.jpeg": "/Movie/static/media/image12.b8e0bc33aa121731ea23.jpeg",
+    "static/media/image5.jpeg": "/Movie/static/media/image5.7bf792143c721bf2f082.jpeg",
+    "static/media/image13.jpeg": "/Movie/static/media/image13.e30f96bbd000d013986b.jpeg",
+    "static/media/image11.jpeg": "/Movie/static/media/image11.1daba347966cd39969d2.jpeg",
+    "static/media/image9.jpeg": "/Movie/static/media/image9.bc12f9b43b5aa419805d.jpeg",
+    "static/media/image6.jpeg": "/Movie/static/media/image6.f17b0fe495267b0e4deb.jpeg",
+    "static/media/image7.jpeg": "/Movie/static/media/image7.5130c01130c6c102b631.jpeg",
+    "static/media/image3.jpeg": "/Movie/static/media/image3.994712a51d1802e418ce.jpeg",
+    "static/media/logo.png": "/Movie/static/media/logo.015f230cfdae9ed89b4b.png",
+    "index.html": "/Movie/index.html",
+    "main.cdd4fccc.css.map": "/Movie/static/css/main.cdd4fccc.css.map",
+    "main.0010e2e2.js.map": "/Movie/static/js/main.0010e2e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd4fccc.css",
+    "static/js/main.0010e2e2.js"
+  ]
+}
